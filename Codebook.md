@@ -21,7 +21,9 @@ Activity:1-6 corresponding to test training exercise
 
   LAYING
 
-Activity Metrics:
+
+
+Activity Metrics: highlighting metrics recorded during the test subjects activities
 
 tBodyAcc-XYZ
 

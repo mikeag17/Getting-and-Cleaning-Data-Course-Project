@@ -5,9 +5,9 @@ Final Project for Getting and Cleaning Data Course Project. Original data derive
 
 Test subjects and test activites:
 
-Subject: 1-30
+Subject: ID range from 1-30 identifying each test subejct
 
-Activity:1-6
+Activity:1-6 corresponding to test training exercise
 
   WALKING
 
